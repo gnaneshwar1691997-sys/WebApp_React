@@ -1,0 +1,12 @@
+.userRegistrationBlock {
+    border: 1px solid;
+    width: 500px;
+    margin: 20px auto;
+    padding: 10px;
+    li {
+        list-style: none;
+        padding: 10px;
+        margin: 10px;
+        
+    }
+}

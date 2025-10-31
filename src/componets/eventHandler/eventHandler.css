@@ -1,0 +1,14 @@
+li{
+    border:2px solid;
+    text-align: center;
+    padding:10px;
+    width:200px;
+    list-style:none;
+    margin:10px auto;
+    cursor: pointer;
+}
+
+
+li:hover{
+    background-color: rgb(162, 162, 241);
+}
